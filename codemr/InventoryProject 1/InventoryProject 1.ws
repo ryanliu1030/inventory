@@ -1,0 +1,1 @@
+{"InventoryProject":{"name":"InventoryProject","packages":{"":{"packageName":"","isAll":false,"classes":["LclerkUser;","Lupdate;","LmanagerUser;","Lsell;","Llogin;","Laddremove;"]}}}}
